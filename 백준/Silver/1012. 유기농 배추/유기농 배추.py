@@ -1,6 +1,6 @@
 import sys
-input = sys.stdin.readline
 from collections import deque
+input = sys.stdin.readline
 
 t = int(input())
 dx = [1, -1, 0, 0]
